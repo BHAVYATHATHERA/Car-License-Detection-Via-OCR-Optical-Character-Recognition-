@@ -21,3 +21,8 @@ The detect and recognize car license plate numbers using Optical Character Recog
 10. **Text Extraction and Display**: Extracts the recognized text and overlays it back onto the original image.
 
 This code provides a basic yet effective approach for license plate recognition, utilizing a combination of OpenCV and EasyOCR for preprocessing and text extraction.
+
+![11](https://github.com/user-attachments/assets/8aea7216-5ac8-4750-b3d9-834e04530e56)
+![22](https://github.com/user-attachments/assets/65cc079c-b761-4307-8179-73857bdfd920)
+![33](https://github.com/user-attachments/assets/5011ee03-9e40-48c1-b72c-b96e67b72675)
+![44](https://github.com/user-attachments/assets/c331e883-931c-4a94-8f99-28a49fdad2c8)
