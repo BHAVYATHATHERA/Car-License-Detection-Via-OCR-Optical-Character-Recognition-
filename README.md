@@ -1,4 +1,4 @@
-This code snippet outlines a project to detect and recognize car license plate numbers using Optical Character Recognition (OCR) with Python and EasyOCR. Here’s a summary of the steps taken in this process:
+The detect and recognize car license plate numbers using Optical Character Recognition (OCR) with Python and EasyOCR. Here’s a summary of the steps taken in this process:
 
 1. **Installing EasyOCR**: The script installs the `easyocr` library, which enables text recognition from images.
 
